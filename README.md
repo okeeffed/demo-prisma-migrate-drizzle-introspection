@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is part of a [blog post](https://blog.dennisokeeffe.com/blog/2023-11-29-prisma-migrations-drizzle-orm-querying) on using Prisma for migrations while using Drizzle Kit for introspection and DrizzleORM for querying.
 
 ## Getting Started
 
